@@ -8,15 +8,7 @@ This repository contains small projects, code snippets, proofs of concept, and e
 
 ```
 playground/
-├── javascript/
-├── typescript/
-├── react/
-├── node/
-├── cpp/
-├── python/
-├── docker/
-├── git/
-├── algorithms/
+├── express-validator/
 └── ...
 ```
 
